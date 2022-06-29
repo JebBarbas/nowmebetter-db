@@ -1,0 +1,38 @@
+{
+    "users": [
+        {
+            "username": "jebbarbas",
+            "displayName": "BBARBASS⚡",
+            "color": "red",
+            "link": "https://instagram.com/jebbarbas",
+            "bio": "Esta es una biografía que se supone debería ser medio larguita, esto es para poder ver que pasa cuando tienes mucho texto, tal vez se haga para abajo pero quiero estar seguro",
+            "nowmies": [
+                {
+                    "name": "Color Favorito",
+                    "emoji": "🎨",
+                    "value": "Me gusta el color rojo, azul y morado"
+                },
+                {
+                    "name": "Comida Favorita",
+                    "emoji": "🍫",
+                    "value": "Me encanta la pizza, tacos y mole, amo los brownies de Dari"
+                },
+                {
+                    "name": "Musica Favorita",
+                    "emoji": "🎵",
+                    "value": "Katy Perry y Lady Gaga mis varonas"
+                },
+                {
+                    "name": "Cumpleaños",
+                    "emoji": "🎂",
+                    "value": "2003"
+                },
+                {
+                    "name": "Signo Zodiacal",
+                    "emoji": "♏",
+                    "value": "🦂"
+                }
+            ]
+        }
+    ]
+}
